@@ -1,0 +1,15 @@
+100 numbers
+start time: 2021-10-10 15:56:31
+stop time: 2021-10-10 15:56:31
+Elapsed time: 0.0499566 s
+
+1000 numbers
+start time: 2021-10-10 15:58:29
+stop time: 2021-10-10 15:58:29
+Elapsed time: 0.0318993 s
+
+10000 numbers
+start time: 2021-10-10 16:12:44
+stop time: 2021-10-10 16:12:44
+Elapsed time: 0.381303 s
+
