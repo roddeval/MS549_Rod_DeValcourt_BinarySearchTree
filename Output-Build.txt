@@ -1,0 +1,50 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: BinarySearchTree, Configuration: Debug Win32 ------
+1>pch.cpp
+1>dllmain.cpp
+1>Tree.cpp
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.cpp(9,1): warning C4273: 'Tree::Tree': inconsistent dll linkage
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.h(28,3): message : see previous definition of '{ctor}'
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.cpp(15,1): warning C4273: 'Tree::Tree': inconsistent dll linkage
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.h(29,3): message : see previous definition of '{ctor}'
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.cpp(23,1): warning C4273: 'Tree::~Tree': inconsistent dll linkage
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.h(30,13): message : see previous definition of '{dtor}'
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.cpp(30,1): warning C4273: 'Tree::Initialize': inconsistent dll linkage
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.h(31,17): message : see previous definition of 'Initialize'
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.cpp(38,1): warning C4273: 'Tree::DeInitialize': inconsistent dll linkage
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.h(32,17): message : see previous definition of 'DeInitialize'
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.cpp(48,1): warning C4273: 'Tree::Add': inconsistent dll linkage
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.h(33,16): message : see previous definition of 'Add'
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.cpp(62,1): warning C4273: 'Tree::Remove': inconsistent dll linkage
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.h(34,16): message : see previous definition of 'Remove'
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.cpp(75,1): warning C4273: 'Tree::Maximum': inconsistent dll linkage
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.h(35,16): message : see previous definition of 'Maximum'
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.cpp(84,1): warning C4273: 'Tree::Minimum': inconsistent dll linkage
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.h(36,16): message : see previous definition of 'Minimum'
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.cpp(93,1): warning C4273: 'Tree::Find': inconsistent dll linkage
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.h(37,16): message : see previous definition of 'Find'
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.cpp(111,1): warning C4273: 'Tree::InorderTraverse': inconsistent dll linkage
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.h(38,17): message : see previous definition of 'InorderTraverse'
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.cpp(121,1): warning C4273: 'Tree::PreorderTraverse': inconsistent dll linkage
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.h(39,17): message : see previous definition of 'PreorderTraverse'
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.cpp(130,1): warning C4273: 'Tree::PostorderTraverse': inconsistent dll linkage
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.h(40,17): message : see previous definition of 'PostorderTraverse'
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.cpp(140,1): warning C4273: 'Tree::OutputTreeToFile': inconsistent dll linkage
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.h(41,17): message : see previous definition of 'OutputTreeToFile'
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.cpp(167,1): warning C4273: 'Tree::OutputTreeToCSVFile': inconsistent dll linkage
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.h(42,17): message : see previous definition of 'OutputTreeToCSVFile'
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.cpp(198,1): warning C4273: 'Tree::OutputHorizontalTree': inconsistent dll linkage
+1>C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\BinarySearchTree\Tree.h(43,17): message : see previous definition of 'OutputHorizontalTree'
+1>Generating Code...
+1>   Creating library C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\Debug\BinarySearchTree.lib and object C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\Debug\BinarySearchTree.exp
+1>BinarySearchTree.vcxproj -> C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\Debug\BinarySearchTree.dll
+1>Done building project "BinarySearchTree.vcxproj".
+2>------ Rebuild All started: Project: MS549_Rod_DeValcourt_BinarySearchTree, Configuration: Debug Win32 ------
+3>------ Rebuild All started: Project: UnitTest, Configuration: Debug Win32 ------
+3>pch.cpp
+3>UnitTest.cpp
+2>MS549_Rod_DeValcourt_BinarySearchTree.cpp
+3>   Creating library C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\Debug\UnitTest.lib and object C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\Debug\UnitTest.exp
+3>UnitTest.vcxproj -> C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\Debug\UnitTest.dll
+2>MS549_Rod_DeValcourt_BinarySearchTree.vcxproj -> C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\Debug\MS549_Rod_DeValcourt_BinarySearchTree.exe
+========== Rebuild All: 3 succeeded, 0 failed, 0 skipped ==========

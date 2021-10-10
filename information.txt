@@ -1,0 +1,4 @@
+cd "C:\Users\rdeva\source\repos\roddeval\MS549_Rod_DeValcourt_BinarySearchTree\debug"
+
+
+MS549_Rod_DeValcourt_BinarySearchTree.exe
